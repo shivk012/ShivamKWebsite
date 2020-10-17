@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/shivam/anaconda3/envs/WebApps/bin/python"
+    "python.pythonPath": "/home/shivam/anaconda3/envs/WebApps/bin/python",
+    "git.ignoreLimitWarning": true
 }
